@@ -31,4 +31,4 @@ Bill of Materials:
 
 # Build Instructions 
 
-Start with a shelf or 
+Start with a shelf that matches the dimensions of 16"1/8" X 16"1/8" and 4" deep. The inside of the shelf needs to be 16"X16" in order to fit the grid and matrix inside the shelf. 
