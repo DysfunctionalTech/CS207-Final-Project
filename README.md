@@ -3,14 +3,14 @@ Interactive Gadgets Final Project
 
 # Contents 
 
--/src- 
--/hardware- 
--/build- 
--/libraries- 
--/examples- 
--/img-
--/LICENSE- 
--/README.md- 
+- /src- 
+- /hardware- 
+- /build- 
+- /libraries- 
+- /examples- 
+- /img-
+- /LICENSE- 
+- /README.md- 
 # Requirements and Materials
 
 Dependancies:
