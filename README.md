@@ -9,6 +9,7 @@ Dependancies:
 
 Bill of Materials:
 
+- Shelf or 
 - Arduino Uno Microcontroller Board 
 - Adafruit Bicolor LED Square Pixel Matrix with I2C Backpack, Adafruit Industries #902 
 - Electret microphone with amplifier, Adafruit #1063
@@ -19,3 +20,7 @@ Bill of Materials:
 - Hookup wire: black, red, and green
 - Jumper wire, male-male
 - Breadboard
+
+# Build Instructions 
+
+Start with a 
