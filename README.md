@@ -1,2 +1,3 @@
-# CS207
-Interactive Gadgets Lab
+# CS207 - Audio Visualizer Shelf 
+Interactive Gadgets 
+
