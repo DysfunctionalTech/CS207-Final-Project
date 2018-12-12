@@ -3,6 +3,14 @@ Interactive Gadgets Final Project
 
 # Contents 
 
+/src- 
+/hardware- 
+/build- 
+/libraries- 
+/examples- 
+/img-
+/LICENSE- 
+/README.md- 
 # Requirements and Materials
 
 Dependancies:
@@ -23,4 +31,4 @@ Bill of Materials:
 
 # Build Instructions 
 
-Start with a 
+Start with a shelf or 
