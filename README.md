@@ -37,8 +37,10 @@ Upload the code and run the examples to test that all the lights work. Once the 
 Play music to get the lights to dance across the board. The volume of the music will determine how many lights come on and how high they move up the board. The volume can also be adjusted on the microphone but a louder volume usually gives the best results. 
 
 - Library: https://github.com/DysfunctionalTech/CS207/tree/master/ffft
-- Examples: - https://github.com/DysfunctionalTech/CS207/tree/master/piccolo-master
-            - https://github.com/DysfunctionalTech/CS207/tree/master/Adafruit_LED_Backpack-master
+- Examples: 
+   - https://github.com/DysfunctionalTech/CS207/tree/master/piccolo-master
+   - https://github.com/DysfunctionalTech/CS207/tree/master/Adafruit_LED_Backpack-master
+
 # Team 
 The build team consists of:
 
