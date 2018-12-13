@@ -39,7 +39,7 @@ Cut 56 red, 56 black, and 56 green wires all to a length of 3". Strip the ends o
 - Putting it together:
 Glue the frosted glass or plastic cover to the front of the shelf and let it dry so it stays in place. Once it is secure, glue the matrix to the board on the same side that the LEDs show through. Once this is dry, insert the board witht he matrix into the shelf with the LEDs facing the frosted glass. Make sure all the wires, the arduino Uno, backpack, and amplifier fit in the shelf back. (Optional) attach the microphone to the underside of the shelf using small screws and poistioning it so the wires can hang out the back without being moved. We also suggest soldering the wires to the microphone carefully as to not cross sodder the pins and confuse the signal. 
 
-- Usage:
+# Usage:
 Upload the code and run the examples to test that all the lights work. Once the proper code has been loaded, the USB can be connected from the arduino to a wall socket through a USB cube or to a computer UBS port as a source of power. 
 Play music to get the lights to dance across the board. The volume of the music will determine how many lights come on and how high they move up the board. The volume can also be adjusted on the microphone but a louder volume usually gives the best results. 
 
