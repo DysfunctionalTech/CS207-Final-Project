@@ -46,9 +46,9 @@ Play music to get the lights to dance across the board. The volume of the music 
 # Team 
 The build team consists of:
 
-Emma Chuckry 
-James Hsieh
-Megan Pippus 
+- Emma Chuckry 
+- James Hsieh
+- Megan Pippus 
 
 # Credits 
 Turner, Charlie. “Transform an Ikea Side Table into a Music Visualizer | Make:” Make: DIY Projects and Ideas for Makers, Make: Projects, 3 May 2016, makezine.com/projects/ikea-music-table/?fbclid=IwAR3BYK5gKp24WP4_bTvdE4RgmYGt7BvV0hkUC2mkjERyQzj7BlW4QBgHPQo.
