@@ -1,6 +1,8 @@
 # CS207 - Audio Visualizer Shelf 
 Interactive Gadgets Final Project 
 
+The following instructions, code, and libraries will allow you to build a Audio Visualizer shelf at home with the help of an Arduino Uno. 
+
 # Contents 
 - /build
 - /libraries 
